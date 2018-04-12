@@ -1,1 +1,1 @@
-web: python echo_bot0.py
+web: python gg-bot.py
